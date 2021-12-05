@@ -1,0 +1,123 @@
+[{
+    "id": 464,
+    "cityScale": "城市规模",
+    "title": "指标",
+    "currentYear": "2021年 1-10月",
+    "lastYear": "2020年 1-10月",
+    "beforeLastYear": "2019年 1-10月",
+    "changeLastYear": "较2020年同期变动",
+    "changeBeforeLastYear": "较2019年 同期变动"
+  },
+  {
+    "id": 465,
+    "cityScale": "整体",
+    "title": "规建面积\n（万方）",
+    "currentYear": "1551,602",
+    "lastYear": "151",
+    "beforeLastYear": "112",
+    "changeLastYear": "-2%",
+    "changeBeforeLastYear": "-4%"
+  },
+  {
+    "id": 466,
+    "cityScale": "整体",
+    "title": "土地出让金\n（亿元）",
+    "currentYear": "152",
+    "lastYear": "152",
+    "beforeLastYear": "1602",
+    "changeLastYear": "20%",
+    "changeBeforeLastYear": "5%"
+  },
+  {
+    "id": 467,
+    "cityScale": "一线",
+    "title": "土地宗块\n（块）",
+    "currentYear": "2613",
+    "lastYear": "602",
+    "beforeLastYear": "5182",
+    "changeLastYear": "11%",
+    "changeBeforeLastYear": "6.7%"
+  },
+  {
+    "id": 468,
+    "cityScale": "一线",
+    "title": "规建面积\n（万方）",
+    "currentYear": "4,602",
+    "lastYear": "11,611",
+    "beforeLastYear": "11,602",
+    "changeLastYear": "5%",
+    "changeBeforeLastYear": "5%"
+  },
+  {
+    "id": 469,
+    "cityScale": "一线",
+    "title": "土地出让金\n（亿元）",
+    "currentYear": "32,602",
+    "lastYear": "222",
+    "beforeLastYear": "77",
+    "changeLastYear": "6.7%",
+    "changeBeforeLastYear": "20%"
+  },
+  {
+    "id": 470,
+    "cityScale": "二线",
+    "title": "土地宗块\n（块）",
+    "currentYear": "1,602",
+    "lastYear": "330",
+    "beforeLastYear": "678",
+    "changeLastYear": "20%",
+    "changeBeforeLastYear": "11%"
+  },
+  {
+    "id": 471,
+    "theMonth": "2021-10",
+    "cityScale": "二线",
+    "title": "规建面积\n（万方）",
+    "currentYear": "21,602",
+    "lastYear": "217",
+    "beforeLastYear": "655",
+    "changeLastYear": "13%",
+    "changeBeforeLastYear": "-2%"
+  },
+  {
+    "id": 472,
+    "theMonth": "2021-10",
+    "cityScale": "二线",
+    "title": "土地出让金\n（亿元）",
+    "currentYear": "21,602",
+    "lastYear": "217",
+    "beforeLastYear": "217",
+    "changeLastYear": "20%",
+    "changeBeforeLastYear": "13%"
+  },
+  {
+    "id": 473,
+    "cityScale": "三线",
+    "title": "土地宗块\n（块）",
+    "currentYear": "21,602",
+    "lastYear": "217",
+    "beforeLastYear": "217",
+    "changeLastYear": "20%",
+    "changeBeforeLastYear": "13%"
+  },
+  {
+    "id": 474,
+    "cityScale": "三线",
+    "title": "规建面积\n（万方）",
+    "currentYear": "21,602",
+    "lastYear": "217",
+    "beforeLastYear": "217",
+    "changeLastYear": "20%",
+    "changeBeforeLastYear": "13%"
+  },
+  {
+    "id": 475,
+    "cityScale": "三线",
+    "title": "土地出让金\n（亿元）",
+    "currentYear": "21,602",
+    "lastYear": "217",
+    "beforeLastYear": "217",
+    "changeLastYear": "20%",
+    "changeBeforeLastYear": "13%"
+  }
+]
